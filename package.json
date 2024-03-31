@@ -1,0 +1,15 @@
+{
+  "name": "metrics_conversion",
+  "version": "1.0.0",
+  "description": "A Metrices Converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YasaswiB/metricsConversion.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
